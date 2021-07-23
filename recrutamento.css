@@ -165,10 +165,26 @@ label #menu{
     height: 500px;
   }
 
-.midias img{
+ .mapa section{
+    color: white;
+    margin-top: 3px;
+    font-size: 15px;
+  }
+
+.mapa img{
+    font-size: 15px;
     position: relative;
     width: 25px;
     height: 25px;
     margin-right: 10px;
     text-align: center;
+}
+
+.mapa p{
+    margin-top: 10px;
+    font-size: 15px;
+    margin-left: 150px;
+    column-count: 2;
+    column-rule: 1px solid #66CDAA;
+    color: white;
 }
