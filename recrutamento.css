@@ -113,13 +113,20 @@ label #menu{
 }
 
 .painel1{
-    background-color: #8A2BE2;
+    background-color: #eb6060;
 }
 .painel2{
     background-color: #FFA500;
 }
 .painel3{
     background-color: #66CDAA;
+}
+
+.login{
+    background-color: #4469fc;
+    position:relative;
+    left: 380px;
+    color: white;
 }
 
 .botaoUsuario{
