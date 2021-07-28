@@ -127,6 +127,7 @@ label #menu{
     position:relative;
     left: 380px;
     color: white;
+    box-shadow: 0 3px 4px rgba(0, 0, 0, .5);
 }
 
 .botaoUsuario{
